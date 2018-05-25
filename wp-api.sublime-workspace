@@ -1,0 +1,1368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"subscriber"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"subs",
+				"subscribers\t(wfm-subscribe.php)"
+			],
+			[
+				"btr",
+				"border-top-right-radius"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"count",
+				"count_pages"
+			],
+			[
+				"satr",
+				"start_page"
+			],
+			[
+				"pain",
+				"pagination_params"
+			],
+			[
+				"pagin",
+				"pagination_params\t(wfm-helpers.php)"
+			],
+			[
+				"coun",
+				"count_pages"
+			],
+			[
+				"wp_",
+				"wp_wfm_subscribes"
+			],
+			[
+				"transitio",
+				"transition"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_nonce",
+				"wp_verify_nonce\t(wfm-ajax-test.php)"
+			],
+			[
+				"plu",
+				"plugins_url\t(wfm-subscribe-class.php)"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_script\t(wfm-ajax-test.php)"
+			],
+			[
+				"add_ac",
+				"add_action\tWP Function"
+			],
+			[
+				"add_action-",
+				"add_action-wp\tWP Action"
+			],
+			[
+				"update",
+				"update_option"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"wfm-aja",
+				"wfm-ajax-scripts.js"
+			],
+			[
+				"prevent",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"wfm_",
+				"wfm_ajax_group"
+			],
+			[
+				"add_se",
+				"add_settings_field"
+			],
+			[
+				"add_op",
+				"add_options_page"
+			],
+			[
+				"_P",
+				"_POST"
+			],
+			[
+				"comment",
+				"comment_data"
+			],
+			[
+				"comment_form_de",
+				"comment_form_default_fields"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"dro",
+				"drooltip.css"
+			],
+			[
+				"par",
+				"parent\t.parent()"
+			],
+			[
+				"append",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"jquery",
+				"jquery.tooltip.js"
+			],
+			[
+				"too",
+				"tooltip.js"
+			],
+			[
+				"WP_QU",
+				"WP_Query"
+			],
+			[
+				"cte",
+				"category"
+			],
+			[
+				"wfm_ca",
+				"wfm_cats_array"
+			],
+			[
+				"ins",
+				"instance"
+			],
+			[
+				"hover",
+				"hoverDelay"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"posts",
+				"posts_per_page"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"get_stylesheet_dire",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"blu",
+				"blue.css\t(index.php)"
+			],
+			[
+				"container",
+				"container-big"
+			],
+			[
+				"foor",
+				"footer-main-menu-arrow.png\tw:5 h:12"
+			],
+			[
+				"footer",
+				"footer-main\t(end.html)"
+			],
+			[
+				"slides",
+				"slidesToScroll"
+			],
+			[
+				"cliente",
+				"clients__line-bg.png\tw:1140 h:1"
+			],
+			[
+				"statis",
+				"statistics-wrap\t(index.html)"
+			],
+			[
+				"stati",
+				"statistics-bg.png\tw:1919 h:909"
+			],
+			[
+				"nth",
+				"nth-child(2"
+			],
+			[
+				"adv",
+				"advantage-icon-bg.png\tw:89 h:89"
+			],
+			[
+				"icon-pe",
+				"icon-pen\t(_icons.scss)"
+			],
+			[
+				"adva",
+				"advantage-title-bg.png\tw:52 h:75"
+			],
+			[
+				"jsItem",
+				"jsItemList"
+			],
+			[
+				"jsI",
+				"jsItemContent"
+			],
+			[
+				"js-tar",
+				"js-tarrif__item-content\t(index.html)"
+			],
+			[
+				"tarrif",
+				"tarrif__item-list-bg.png\tw:262 h:357"
+			],
+			[
+				"tarr",
+				"tarrif-title-bg.png\tw:53 h:74"
+			],
+			[
+				"about",
+				"about-bg.png\tw:1059 h:573"
+			],
+			[
+				"btn",
+				"btn-violet-bg.png\tw:206 h:43"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"js-",
+				"js-header-menu\t(head.html)"
+			],
+			[
+				"header-menu",
+				"header-menu__navbar\t(head.html)"
+			],
+			[
+				"s",
+				"statistick__bottom-line.png\tw:1973 h:56"
+			],
+			[
+				"stat",
+				"statistick__bottom-bg.jpg\tw:772 h:132"
+			],
+			[
+				"exchange",
+				"exchange__item"
+			],
+			[
+				"excha",
+				"exchange__item"
+			],
+			[
+				"exc",
+				"exchange__item-number"
+			],
+			[
+				"exhc",
+				"exchange-item-left.png"
+			],
+			[
+				"fa-sor",
+				"fa-sort-down\t(head.html)"
+			],
+			[
+				"ex",
+				"exchange"
+			],
+			[
+				"hea",
+				"header-menu-wrap"
+			],
+			[
+				"reis",
+				"register-block"
+			],
+			[
+				"registe",
+				"register-block"
+			],
+			[
+				"robot",
+				"roboto-black\t(_mixins.scss)"
+			],
+			[
+				"ai",
+				"ai-fs\talign-items: flex-start;"
+			],
+			[
+				"ad",
+				"address\t(head.html)"
+			],
+			[
+				"header",
+				"header-top"
+			],
+			[
+				"icons",
+				"icon-small\t(head.html)"
+			],
+			[
+				"docum",
+				"documentScroll\t(custom.js)"
+			],
+			[
+				"docu",
+				"doucmentHeight"
+			],
+			[
+				"up",
+				"upOffsetTop"
+			],
+			[
+				"scro",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"qu",
+				"questions-bg.jpg\tw:1920 h:280"
+			],
+			[
+				"tabs__",
+				"tabs__item\t(index.html)"
+			],
+			[
+				"tabs_",
+				"tabs__content\t(index.html)"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"img",
+				"img-wrap"
+			],
+			[
+				"js-slic",
+				"js-slick-right\t(index.html)"
+			],
+			[
+				"js-slick",
+				"js-slick-left\t(index.html)"
+			],
+			[
+				"js-slid",
+				"js-slider-index-small\t(index.html)"
+			],
+			[
+				"slider-in",
+				"slider-index-small"
+			],
+			[
+				"vid",
+				"video-wrap\t(index.html)"
+			],
+			[
+				"icon-pa",
+				"icon-paint-roller\t(icomoon.less)"
+			],
+			[
+				"ac",
+				"accent"
+			],
+			[
+				"layout",
+				"layouts-data"
+			],
+			[
+				"bl",
+				"black\t(_variables.less)"
+			],
+			[
+				"min",
+				"minionProRegular\t(_mixins.less)"
+			],
+			[
+				"latoLi",
+				"latoLightItalic\t(_mixins.less)"
+			],
+			[
+				"respo",
+				"responsive-utilities.less"
+			],
+			[
+				"grid",
+				"grid.less"
+			],
+			[
+				"mixin",
+				"mixins.less"
+			],
+			[
+				"the_ps",
+				"the_post_thumbnail"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"WP",
+				"WP_Query"
+			],
+			[
+				"bloc",
+				"bloc_house"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 48.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"uploa",
+				"Sync Settings: Upload"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"keyn",
+				"Preferences: Key Bindings"
+			],
+			[
+				"open ",
+				"github: open repo"
+			],
+			[
+				"raw lin",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"raw line edi",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"raw ",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"raw",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"file r",
+				"File: Revert"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"phpfm",
+				"phpfmt: troubleshoot information"
+			],
+			[
+				"php ",
+				"PHP CodeBeautifier"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"keybindi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa\t",
+				"Package Control: Disable Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"preferences settings",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"disable pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"start",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"start debu",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"upload",
+				"Sync Settings: Upload"
+			],
+			[
+				"key",
+				"Preferences: SublimeLinter Key Bindings"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"uplo",
+				"Sync Settings: Upload"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"star",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"restart",
+				"Xdebug: Restart Session"
+			],
+			[
+				"layout",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"remove",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"stop ",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"start de",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"xdebug ",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"keybindings user",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"reomve pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"kebin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"hi",
+				"Local History: Open"
+			],
+			[
+				"history",
+				"Local History: Open"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"histor",
+				"Local History: Open"
+			],
+			[
+				"gist op",
+				"Gist: Open Gist"
+			],
+			[
+				"hist",
+				"Local History: Open"
+			],
+			[
+				"sync",
+				"Sync Settings: Show Logs"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"downl",
+				"Sync Settings: Download"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OSPanel/domains/wp-api.loc"
+	],
+	"file_history":
+	[
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-cron.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/css/wfm-subscribe.css",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-ajax-test/wfm-ajax-scripts.js",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/wfm-helpers.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/js/wfm-subscribe-admin.js",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/wfm-subscribe.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/wfm-ajax-functions.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-ajax-test/wfm-ajax-test.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/wfm-subscribe-class.php",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeLinter-csslint.sublime-package",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-subscribe/js/wfm-subscribe.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/RawLineEdit/raw_line_edit.sublime-settings",
+		"/C/OSPanel/domains/start-template.loc/package.json",
+		"/C/OSPanel/domains/for-friends.loc/package.json",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-ajax-test/css/wfm-ajax-style.css",
+		"/C/OSPanel/domains/city-fence.loc/src/assets/sass/partials/_fonts.scss",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/User/Downloads/test.sql",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/phpfmt/message",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/phpcbf/phpcbf.sublime-settings",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm_section_options/wfm_menu_options.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-options/wfm-options.php",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-capcha/wfm-capcha.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-count-views/wfm-count-views.php",
+		"/C/Users/User/.PhpStorm2018.1/config/phpstorm64.exe.vmoptions",
+		"/C/Program Files/JetBrains/PhpStorm 2018.1.1/bin/phpstorm64.exe.vmoptions",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-count-views/wfm-check.php",
+		"/C/Users/User/Downloads/phpstorm-2018-key/инструкция.txt",
+		"/C/OSPanel/userdata/logs/PHP-7.1-x64_error.log",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/captcha/wfm-captcha.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/captcha/captcha.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/capcha/captcha.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-count-views/uninstall.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-api.sublime-project",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-config.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-first/wfm-first.php",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-related-posts/wfm-related-posts.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-related-posts/css/wfm-style.css",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-related-posts/js/wfm-scripts.js",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-related-posts/css/drooltip.css",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-related-posts/images/black-arrow.png",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-hooks/index.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-related-posts/wfm-related-posts",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-first/wfm_errors_log.log",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/phpcbf/Default (Windows).sublime-keymap",
+		"/C/OSPanel/userdata/temp/email/2018-05-14_19-54-49-6330.txt",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/hello.php",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-widget-cats/wfm-widget-cats.php",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/plugins/wfm-widget-cats/js/wfm-scripts.js",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-content/themes/twentyfifteen/style.css",
+		"/C/OSPanel/domains/wordpress-ajax.loc/wp-includes/plugin.php",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/style.css",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-config.php",
+		"/C/Users/User/Downloads/WordPress-Мастер/premiumwp/Цикл Премиум-видеоуроков по CMS WordPress/3/www/index.php",
+		"/C/Users/User/Downloads/katya/katya/index.html",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/assets/js/jquery.typer.js",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/assets/js/vendor/jquery.typer.js",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/assets/js/typer-js/Animated-Typewriter-Effect-with-jQuery-typer-js/typer.jquery.json",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/assets/js/main.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/assets/index.html",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/assets/css/style.css",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/twentyfifteen/style.css",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/header.php",
+		"/C/OSPanel/domains/wp-portfolio2.loc/wp-content/themes/portfolio/screenshot.png",
+		"/C/Users/User/Desktop/test/style.css",
+		"/C/Users/User/Desktop/test/index.html",
+		"/C/Users/User/Downloads/test.html",
+		"/C/OSPanel/domains/wp-lavrik.loc/wp-content/themes/test/functions.php",
+		"/C/OSPanel/domains/seriiserii825.github.io/Website/build/js/main.js",
+		"/C/OSPanel/domains/wp-lavrik.loc/wp-content/themes/test/header.php",
+		"/C/OSPanel/domains/wp-lavrik.loc/wp-content/themes/test/assets/index.html",
+		"/C/OSPanel/domains/wp-lavrik.loc/wp-content/themes/test/style.css",
+		"/C/Users/User/Downloads/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/OSPanel/domains/wp-lavrik.loc/wp-content/themes/test/index.php",
+		"/O/courses/wordpress-lavrik/Урок 5/wp-lesson5-src/test/header.php",
+		"/O/courses/wordpress-lavrik/Урок 4/wp-lesson4-src/header.php",
+		"/O/courses/wordpress-lavrik/Урок 3/wp-lesson3-src/header.php",
+		"/C/OSPanel/domains/city-fence.loc/src/templates/end.html",
+		"/C/OSPanel/domains/city-fence.loc/src/assets/sass/style.scss",
+		"/C/OSPanel/domains/city-fence.loc/src/portfolio.html",
+		"/C/OSPanel/domains/city-fence.loc/src/product-page.html",
+		"/C/OSPanel/domains/city-fence.loc/src/contacts.html",
+		"/C/OSPanel/domains/city-fence.loc/src/promotions.html",
+		"/C/OSPanel/domains/city-fence.loc/src/index.html",
+		"/C/OSPanel/domains/city-fence.loc/src/templates/head.html",
+		"/C/OSPanel/domains/city-fence.loc/src/blocks/slider-index.html",
+		"/C/OSPanel/domains/city-fence.loc/src/blocks/standarts.html",
+		"/C/OSPanel/domains/city-fence.loc/src/blocks/seven-reasons.html",
+		"/C/OSPanel/domains/city-fence.loc/src/assets/js/main.js",
+		"/C/OSPanel/domains/city-fence.loc/src/blocks/gost.html",
+		"/C/OSPanel/domains/city-fence.loc/src/blocks/for-what.html",
+		"/C/OSPanel/domains/city-fence.loc/src/assets/sass/partials/_mixins.scss",
+		"/C/Users/User/Downloads/black/LatoBlack.css",
+		"/C/Users/User/Downloads/bold/LatoBold.css",
+		"/C/Users/User/Downloads/ef_conv_zip_m5X19m4Ttj5d8OvS7MRJXQeF/LatoItalic.css",
+		"/C/Users/User/Downloads/ef_conv_zip_vio5yp_TpVfkc8SXXC6gogeF/LatoLight.css",
+		"/C/OSPanel/domains/test.loc/index.html",
+		"/C/OSPanel/domains/test.loc/style.css",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/style.css",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/index.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/blocks/statistics.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/blocks/advantages.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/blocks/about.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/blocks/tarrif.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/blocks/new_statistics.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/partials/blocks/statistics.html",
+		"/C/OSPanel/domains/coin-stream.loc/src/templates/head.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/med-cus.sublime-snippet",
+		"/C/OSPanel/domains/coin-stream.loc/gulpfile.js",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/partials/_start.scss",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/partials/_fonts.scss",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/partials/_variables.scss",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/partials/_mixins.scss",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/i/sprite.css",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/sass/partials/_sprite.scss",
+		"/C/OSPanel/domains/coin-stream.loc/src/assets/i/sprite.scss",
+		"/C/Users/User/Downloads/intro/8289.css",
+		"/C/OSPanel/domains/marselle.loc/src/assets/less/partials/variables.less",
+		"/C/OSPanel/domains/marselle.loc/src/templates/head.html"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 150.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wp-api.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wp-help",
+				"wp-content\\plugins\\wfm-subscribe\\wfm-helpers.php"
+			],
+			[
+				"wfm-ajax",
+				"wp-content\\plugins\\wfm-ajax-test\\wfm-ajax-scripts.js"
+			],
+			[
+				"wfm-ajax-fu",
+				"wp-content\\plugins\\wfm-subscribe\\wfm-ajax-functions.php"
+			],
+			[
+				"wfm-su",
+				"wp-content\\plugins\\wfm-subscribe\\wfm-subscribe-class.php"
+			],
+			[
+				"wfm-sub",
+				"wp-content\\plugins\\wfm-subscribe\\js\\wfm-subscribe-admin.js"
+			],
+			[
+				"wfm-style",
+				"wp-content\\plugins\\wfm-ajax-test\\css\\wfm-ajax-style.css"
+			],
+			[
+				"wfm-ajax-t",
+				"wp-content\\plugins\\wfm-ajax-test\\wfm-ajax-test.php"
+			],
+			[
+				"captch",
+				"wp-content\\plugins\\captcha\\captcha.php"
+			],
+			[
+				"capcha",
+				"wp-content\\plugins\\capcha\\capcha.php"
+			],
+			[
+				"wp-config",
+				"wp-config.php"
+			],
+			[
+				"wfm-cou",
+				"wp-content\\plugins\\wfm-count-views\\wfm-count-views.php"
+			],
+			[
+				"uninstall",
+				"wp-content\\plugins\\wfm-count-views\\uninstall.php"
+			],
+			[
+				"wfm-count",
+				"wp-content\\plugins\\wfm-count-views\\wfm-count-views.php"
+			],
+			[
+				"droo",
+				"wp-content\\plugins\\wfm-related-posts\\css\\drooltip.css"
+			],
+			[
+				"wfm-fir",
+				"wp-content\\plugins\\wfm-first\\wfm-first.php"
+			],
+			[
+				"hello",
+				"wp-content\\plugins\\hello.php"
+			],
+			[
+				"wfm-sci",
+				"wp-content\\plugins\\wfm-widget-cats\\js\\wfm-scripts.js"
+			],
+			[
+				"style.css",
+				"wp-content\\themes\\twentyfifteen\\style.css"
+			],
+			[
+				"wfm-",
+				"wp-content\\plugins\\wfm-widget-cats\\wfm-widget-cats.php"
+			],
+			[
+				"main.js",
+				"wp-content\\themes\\portfolio\\assets\\js\\main.js"
+			],
+			[
+				"fun",
+				"wp-content\\themes\\portfolio\\functions.php"
+			],
+			[
+				"index.php",
+				"wp-content\\themes\\portfolio\\index.php"
+			],
+			[
+				"index.html",
+				"wp-content\\themes\\portfolio\\assets\\index.html"
+			],
+			[
+				"heaer.php",
+				"wp-content\\themes\\portfolio\\header.php"
+			],
+			[
+				"index.ht",
+				"wp-content\\themes\\test\\assets\\index.html"
+			],
+			[
+				"header.php",
+				"wp-content\\themes\\test\\header.php"
+			],
+			[
+				"functions",
+				"wp-content\\themes\\test\\functions.php"
+			],
+			[
+				"portfo",
+				"src\\portfolio.html"
+			],
+			[
+				"style.scs",
+				"src\\assets\\sass\\style.scss"
+			],
+			[
+				"contacts",
+				"src\\contacts.html"
+			],
+			[
+				"end",
+				"src\\templates\\end.html"
+			],
+			[
+				"produc",
+				"src\\product-page.html"
+			],
+			[
+				"conta",
+				"src\\contacts.html"
+			],
+			[
+				"portfol",
+				"src\\portfolio.html"
+			],
+			[
+				"promotions",
+				"src\\promotions.html"
+			],
+			[
+				"seven-",
+				"src\\blocks\\seven-reasons.html"
+			],
+			[
+				"gost",
+				"src\\blocks\\gost.html"
+			],
+			[
+				"for-what",
+				"src\\blocks\\for-what.html"
+			],
+			[
+				"standarts",
+				"src\\blocks\\standarts.html"
+			],
+			[
+				"slider",
+				"src\\blocks\\slider-index.html"
+			],
+			[
+				"head.html",
+				"src\\templates\\head.html"
+			],
+			[
+				"_vari",
+				"src\\assets\\sass\\partials\\_variables.scss"
+			],
+			[
+				"_mixi",
+				"src\\assets\\sass\\partials\\_mixins.scss"
+			],
+			[
+				"style.sc",
+				"src\\assets\\sass\\style.scss"
+			],
+			[
+				"_fonts",
+				"src\\assets\\sass\\partials\\_fonts.scss"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"statis",
+				"src\\blocks\\statistics.html"
+			],
+			[
+				"statisti",
+				"src\\blocks\\statistics.html"
+			],
+			[
+				"advanta",
+				"src\\blocks\\advantages.html"
+			],
+			[
+				"adva",
+				"src\\blocks\\advantages.html"
+			],
+			[
+				"statisi",
+				"src\\blocks\\statistics.html"
+			],
+			[
+				"new_sta",
+				"src\\blocks\\new_statistics.html"
+			],
+			[
+				"head",
+				"src\\templates\\head.html"
+			],
+			[
+				"index.",
+				"src\\index.html"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"_var",
+				"src\\assets\\sass\\partials\\_variables.scss"
+			],
+			[
+				"_start",
+				"src\\assets\\sass\\partials\\_start.scss"
+			],
+			[
+				"_sprit",
+				"src\\assets\\sass\\partials\\_sprite.scss"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"_vai",
+				"src\\assets\\sass\\partials\\_variables.scss"
+			],
+			[
+				"_fo",
+				"src\\assets\\sass\\partials\\_fonts.scss"
+			],
+			[
+				"_fotn",
+				"src\\assets\\sass\\partials\\_fonts.scss"
+			],
+			[
+				"style.",
+				"src\\assets\\sass\\style.scss"
+			],
+			[
+				"icomoon.l",
+				"src\\assets\\less\\partials\\icomoon.less"
+			],
+			[
+				"icomoon",
+				"src\\assets\\less\\partials\\icomoon.less"
+			],
+			[
+				"icomoon.less",
+				"src\\assets\\less\\partials\\icomoon.less"
+			],
+			[
+				"icomoon.le",
+				"src\\assets\\less\\partials\\icomoon.less"
+			],
+			[
+				"icom",
+				"src\\assets\\less\\partials\\icomoon.less"
+			],
+			[
+				"end.html",
+				"src\\templates\\end.html"
+			],
+			[
+				"vari",
+				"src\\assets\\less\\partials\\variables.less"
+			],
+			[
+				"mixins.less",
+				"src\\assets\\less\\partials\\mixins.less"
+			],
+			[
+				"variables.les",
+				"src\\assets\\less\\partials\\variables.less"
+			],
+			[
+				"_mixin",
+				"src\\assets\\less\\partials\\_mixins.less"
+			],
+			[
+				"_fontsl",
+				"src\\assets\\less\\partials\\_fonts.less"
+			],
+			[
+				"_mixins.les",
+				"src\\assets\\less\\partials\\_mixins.less"
+			],
+			[
+				"_font",
+				"src\\assets\\less\\partials\\_fonts.less"
+			],
+			[
+				"fonts.less",
+				"src\\assets\\less\\partials\\_fonts.less"
+			],
+			[
+				"style.less",
+				"src\\assets\\less\\style.less"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"wp-config.p",
+				"wp-config.php"
+			],
+			[
+				"wp-conf",
+				"wp-config.php"
+			],
+			[
+				"wp-config-s",
+				"wp-config-sample.php"
+			],
+			[
+				"wp-confi",
+				"wp-config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\OSPanel\\domains\\start-template.loc\\start-template.sublime-project"
+			],
+			[
+				"wp-la",
+				"C:\\OSPanel\\domains\\wp-lavrik.loc\\wp-lavrik.loc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
