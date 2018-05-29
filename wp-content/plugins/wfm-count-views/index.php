@@ -2,6 +2,7 @@
  * Plugin Name: Счетчик показа постов
  * Description: Плагин показывает счетчик посещения возле каждого поста
  */
+include __DIR__ . '/functions.php';
 
 register_activation_hook( __FILE__, 'wfm_create_field' );
 add_filter( 'the_content', 'wfm_show_count');
@@ -12,11 +13,12 @@ add_action('wp_head', 'wfm_update_wfm_views');
  * @return [type] [description]
  */
 function wfm_create_field(){
-    global $wpdb;
 
-    $query = "ALTER TABLE $wpdb->posts ADD wfm_views INT NOT NULL DEFAULT '0'";
-
-    $wpdb->query($query);
+    if(!check_isset_field('wfm_views')){
+        global $wpdb;
+        $query = "ALTER TABLE $wpdb->posts ADD wfm_views INT NOT NULL DEFAULT '0'";
+        $wpdb->query($query);
+    }
 }
 
 /**
