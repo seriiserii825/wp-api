@@ -1,0 +1,21 @@
+.related_posts {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.related_posts a {
+    text-decoration: none;
+    text-align: center;
+    border-bottom: none !important;
+}
+
+.related_posts img {
+    border: 3px solid #ccc;
+    border-radius: 3px;
+}
+
+.related_posts img:hover {
+    border-color: #000;
+}
+

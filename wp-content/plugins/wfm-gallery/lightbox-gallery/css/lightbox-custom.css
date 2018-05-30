@@ -1,0 +1,9 @@
+.wfm-gallery {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.wfm-gallery a {
+    margin-bottom: 30px;
+}
