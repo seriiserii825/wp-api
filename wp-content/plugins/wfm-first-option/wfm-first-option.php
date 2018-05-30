@@ -5,6 +5,11 @@
 
 add_action( 'admin_init', 'wfm_theme_option' );
 add_action( 'wp_enqueue_scripts', 'wfm_scripts_styles' );
+register_uninstall_hook( __FILE__, 'wfm_theme_option_uninstall' );
+
+function wfm_theme_option_uninstall(){
+    delete_option( 'wfm_theme_option' );
+}
 
 function wfm_scripts_styles(){
     $wfm_theme_option = get_option('wfm_theme_option');

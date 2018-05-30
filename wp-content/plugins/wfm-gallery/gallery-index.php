@@ -4,13 +4,46 @@
  */
 
 add_shortcode( 'gallery', 'wfm_gallery' );
+add_action( 'admin_init', 'wfm_gallery_options' );
+register_uninstall_hook( __FILE__, 'wfm_gallery_options_uninstall' );
+
+function wfm_gallery_options_uninstall(){
+    delete_option( 'wfm_gallery_options' );
+}
+
+function wfm_gallery_options(){
+    register_setting( 'general', 'wfm_gallery_options' );
+
+    add_settings_section( 'wfm_gallery_section_id', 'Опции галереи', '', 'general' );
+
+    add_settings_field( 'wfm_gallery_title', 'Название галереи', 'wfm_gallery_options_title_cb', 'general', 'wfm_gallery_section_id' );
+    add_settings_field( 'wfm_gallery_text', 'Текст при отсутствии картинок', 'wfm_gallery_options_text_cb', 'general', 'wfm_gallery_section_id' );
+}
+
+function wfm_gallery_options_title_cb(){
+    $options = get_option( 'wfm_gallery_options' );
+    ?>
+        <input type="text" name="wfm_gallery_options[wfm_gallery_title]" id="wfm_gallery_title" class="regular-text" value="<?php echo $options['wfm_gallery_title']; ?>">
+    <?php
+}
+
+function wfm_gallery_options_text_cb(){
+    $options = get_option( 'wfm_gallery_options' );
+    ?>
+        <input type="text" name="wfm_gallery_options[wfm_gallery_text]" id="wfm_gallery_text" class="regular-text" value="<?php echo $options['wfm_gallery_text']; ?>">
+    <?php
+}
 
 function wfm_gallery($atts){
-    $id_arr = explode(',', $atts['ids']);
+    $gallery_options = get_option('wfm_gallery_options');
 
-    $html = '<div id="gallery" class="gallery">';
+    $html = '<h2>'.$gallery_options['wfm_gallery_title'].'</h2> <div id="gallery" class="gallery">';
 
-    foreach ($id_arr as $id) {
+
+    if(!empty($atts['ids'])){
+        $id_arr = explode(',', $atts['ids']);    
+
+        foreach ($id_arr as $id) {
         $img_data = get_post($id, ARRAY_A);
 
         $title = $img_data['post_title'];
@@ -22,6 +55,10 @@ function wfm_gallery($atts){
         $html .= '<a href="'.$img_full[0].'" data-lightbox="gallery" data-title="'.$title.'">
             <img src="'.$img_thumb[0].'" width="'.$img_thumb[1].'" height="'.$img_thumb[1].'" alt="" />
         </a>';
+    }
+
+    }else{
+        $html .= '<h3>'.$gallery_options['wfm_gallery_text'].'</h3>';
     }
 
     $html .= '</div>';
